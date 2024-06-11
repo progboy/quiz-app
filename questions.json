@@ -1,0 +1,53 @@
+[
+    {
+        "question":"How many sides does a triangle have?",
+        "options": [1,2,3,4],
+        "answer":3
+    },
+    {
+        "question":"How many hours does a day have?",
+        "options": [10,24,60,6],
+        "answer":24
+    },
+    {
+        "question":"What is 3x3x3",
+        "options": [9,18,3,27],
+        "answer": 27
+    },
+    {
+        "question":"Which animal is the 'ship of the desert'?",
+        "options": ["Scorpion","Ostrich","Camel","Kangaroo"],
+        "answer":"Camel"
+    },
+    {
+        "question":"How many states does India have?",
+        "options": [28,49,30,50],
+        "answer":28
+    },
+    {
+        "question":"In what year did India gain independence?",
+        "options": [1951,1949,1987,1947],
+        "answer":1947
+    },
+    {
+        "question":"How many colours does a rainbow have?",
+        "options": [7,6,8,9],
+        "answer":7
+    },
+    {
+        "question":"What is the valency of carbon?",
+        "options": [4,6,2,8],
+        "answer":4
+    },
+    {
+        "question":"How many elements are there in the periodic table?",
+        "options": [118,119,20,101],
+        "answer":118
+    },
+    {
+        "question":"When did Titanic sink?",
+        "options": [1912,1914,1918,1908],
+        "answer":1912
+    }
+
+]
